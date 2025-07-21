@@ -29,7 +29,7 @@ const typingEffect = new Typed(".typedText", {
   backDelay: 2000
 });
 
-/* ==================== SCROLL REVEAL ANIMATION ==================== */
+/* ==================== SCROLL REVEAL  ==================== */
 const sr = ScrollReveal({
   origin: 'top',
   distance: '80px',
