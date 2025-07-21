@@ -2,7 +2,8 @@
 
 This is my personal portfolio website built to showcase my background, skills, and projects as a Mechatronics Engineering student and aspiring Robotics Engineer.
 
-🌐 About This Portfolio Website
+
+### 🌐 About This Portfolio Website
 Built using HTML, CSS, and JavaScript
 
 Learned and followed tutorials from W3Schools and YouTube
@@ -19,7 +20,8 @@ Still learning web design — not a professional yet, but improving!
 
 This project is a part of my self-learning journey to grow as a Mechatronics Engineer and showcase my work online
 
-💻 What I Did in This Project
+
+### 💻 What I Did in This Project
 I designed and built a personal portfolio website from scratch
 
 Used HTML to structure the content (sections like About Me, Projects, Contact)
