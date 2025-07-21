@@ -47,6 +47,7 @@ The design is still basic — I'm still improving, but this is my first solid st
 
 <img width="1920" height="1080" alt="WEB 1" src="https://github.com/user-attachments/assets/22d8ca84-4066-40db-8e61-bf823ec47bbf" />
 
+
 <img width="1920" height="1080" alt="WEB 2" src="https://github.com/user-attachments/assets/041720ee-b541-475c-9359-208d319a5396" />
 
 
